@@ -50,3 +50,13 @@ with:
 ```
 
 inside `activity_main.xml` file
+
+### Screenshots
+
+Correct behaviour:
+
+![Correct behaviour screenshot](correct.png "Correct behaviour screenshot")
+
+Incorrect behaviour:
+
+![Incorrect behaviour screenshot](incorrect.png "Incorrect behaviour screenshot")
