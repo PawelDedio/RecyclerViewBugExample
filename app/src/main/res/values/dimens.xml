@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recycler_cell_width">260dp</dimen>
+    <dimen name="recycler_cell_height">260dp</dimen>
+    <dimen name="recycler_padding_start">20dp</dimen>
+    <dimen name="recycler_padding_end">@dimen/recycler_cell_width</dimen>
+</resources>
