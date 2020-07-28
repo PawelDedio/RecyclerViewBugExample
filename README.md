@@ -11,6 +11,7 @@ By default this app uses recycler view library in version 1.0.0. With this versi
 If you want to reproduce bug, you need to replace line: 
 
 `implementation "androidx.recyclerview:recyclerview:1.0.0"` 
+
 with:
 
 `implementation "androidx.recyclerview:recyclerview:1.1.0"` or any version above 1.1.0
