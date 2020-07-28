@@ -9,8 +9,10 @@ Starting from RecyclerView library 1.1.0 center snapping is not working when we 
 By default this app uses recycler view library in version 1.0.0. With this version everything works correctly.
 
 If you want to reproduce bug, you need to replace line: 
+
 `implementation "androidx.recyclerview:recyclerview:1.0.0"` 
 with:
+
 `implementation "androidx.recyclerview:recyclerview:1.1.0"` or any version above 1.1.0
 
 ### Workaround solution
